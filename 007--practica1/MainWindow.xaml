@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBox>Hola Munfo</TextBox> 
+        <TextBox>Hola Munfo</TextBox>
+        <TextBox>fofo</TextBox>
     </Grid>
 </Window>
